@@ -59,9 +59,6 @@ cat >> "$HOSTS_FILE" << EOF
 0.0.0.0 acmdm.apple.com
 0.0.0.0 Albert.apple.com
 0.0.0.0 deviceenrollment.apple.com
-0.0.0.0 identity.apple.com
-0.0.0.0 icloud.com
-0.0.0.0 setup.icloud.com
 EOF
 
 # Create directories for disabled services
