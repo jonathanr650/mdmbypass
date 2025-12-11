@@ -8,7 +8,7 @@ echo "Starting MDM Bypass Script..."
 
 # Define volume paths
 SYSTEM_VOL="/Volumes/Macintosh HD"
-DATA_VOL="/Volumes/Macintosh HD - Data"
+DATA_VOL="/Volumes/Macintosh HD - Datos"
 
 # Check if volumes are mounted
 if [ ! -d "$SYSTEM_VOL" ]; then
